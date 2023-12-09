@@ -1,0 +1,32 @@
+Các mục trong menu:
+- Trang chủ (hiển thị nội quy trong thư viện + button tìm sách + button đăng xuất)
+- Sách(Một trang hiển thị một loạt sách, một trang hiển thị quản lý sách)
+- Thể loại(Trang quản lý thể loại sách)
+- Phiếu nhập(Trang quản lý phiếu nhập)
+- Nhà cung cấp(Trang quản lý nhà cung cấp)
+- Thành viên(Trang quản lý thành viên)
+- Phiếu mượn(///)
+- Phiếu phạt(///)
+- Nhân viên(///)
+- Quy định
+- Tài khoản cá nhân (Trang chỉnh sửa thông tin của người đăng nhập vào hệ thống)
+- Tài khoản(quản lý tài khoản)
+- Phân quyền(Trang Phân quyền cho các vị trí làm việc, trang chọn vị trí làm việc cho nhân viên)
+- Thống kê(
++Thống kê sách nào được mượn nhiều nhất trong các tháng
++thống kê số lượng độc giả đăng kí thẻ, gia hạn thẻ theo tháng trong năm
++Thống kê tiền phạt thu được theo các tháng trong năm
+
+*note
+Sách: không xóa, không sửa, Tạo form thêm sách
+Thể loại: không xóa, không sửa, Tạo form thêm thể loại
+Phiếu nhập: không xóa, không sửa, tạo form thêm phiếu nhập
+Nhà cung cấp: không xóa
+Thành viên: Không xóa
+Phiếu mượn: không xóa, không sửa, tạo form thêm
+Phiếu phạt: không xóa, không sửa, tạo form thêm
+Nhân viên: không xóa, chỉ được chỉnh sửa trạng thái (nghỉ làm)
+phân quyền: không xóa phân quyền, chỉ được chỉnh sửa, không thêm
+Thống kê:
+
+

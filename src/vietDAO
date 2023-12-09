@@ -1,0 +1,21 @@
+Viết các lớp DAO cho các table (Mẫu như CT_PhanQuyenDAO)
+* lưu ý: tạo branch riêng để làm và up lên github
+Các lớp đối tượng tui đã viết sẵn trong file DTO
+- Viết các hàm
++ readData: trả về arraylist của đối tượng
++ insertData: thêm dữ liệu vào database
++ deleteData: xóa một dòng dữ liệu ở database
++ updateData: chỉnh sửa dữ liệu database
+
+Phân công:
+
++ Đạt: CT_PhieuMuon, CT_PhieuNhap, NhaCungCap
++ Hữu: NhaCungCap, NhanVien, PhieuMuon
++ Hưng: PhieuNhap, PhieuPhat, QuyDinh
++ Tiến: Quyen, Sach, ThanhVien
++ Phát: TheLoai, ViTri
+
+deadline: thứ 7
+
+
+
